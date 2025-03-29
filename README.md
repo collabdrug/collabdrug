@@ -13,10 +13,6 @@ A decentralized platform for collaborative drug discovery data sharing and colla
 - **Twitter**: [@CollabDrug](https://x.com/CollabDrug)
 - **GitHub**: [collabdrug/collabdrug](https://github.com/collabdrug/collabdrug)
 
-## Logo
-
-![CollabDrug Logo](https://raw.githubusercontent.com/collabdrug/collabdrug/main/assets/logo.svg)
-
 ## Features
 
 ### MVP Version
