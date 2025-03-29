@@ -1,5 +1,10 @@
 # CollabDrug
 
+<div align="center">
+  <img src="assets/images/logo.png" alt="CollabDrug Logo" width="300">
+  <p><em>Collaborative Drug Discovery Platform</em></p>
+</div>
+
 A decentralized platform for collaborative drug discovery data sharing and collaboration.
 
 ## Project Information
