@@ -1,7 +1,7 @@
 # CollabDrug
 
 <div align="center">
-  <img src="assets/logo.png" alt="CollabDrug Logo" width="300">
+  <img src="https://raw.githubusercontent.com/collabdrug/collabdrug/master/assets/logo.png" alt="CollabDrug Logo" width="300">
   <p><em>Collaborative Drug Discovery Platform</em></p>
 </div>
 
